@@ -1,16 +1,13 @@
-### Hi there 👋
+# Tim Gion
 
-<!--
-**movestill/movestill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I work at the [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu).
+I'm a generalist but for the last few years, I've been very interested in
+software quality, automation, and improving the developer experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main open source contributions are to [bossDB](https://www.github.com/jhuapl-boss).
+bossDB is a petabyte scale neuroscience database running in AWS.
+
+I normally do all my dev work with `Vim` and `tmux`, but occasionally dabble
+with VS Code due to the massive support for its ecosystem.
